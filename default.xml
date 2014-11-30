@@ -34,7 +34,9 @@
   <project path="hardware/qcom/gps" name="temasek/android_hardware_qcom_gps" remote="github" revision="cm-12.0" />
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.0" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.0" />
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-12.0" />
+  <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-12.0" />
+  <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.0" />
+  <!-- END of temasek -->
 
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
@@ -474,7 +476,7 @@
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
+  <!--<project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />-->
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <!-- <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" /> -->
