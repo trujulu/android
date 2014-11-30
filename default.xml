@@ -34,6 +34,7 @@
   <project path="hardware/qcom/gps" name="temasek/android_hardware_qcom_gps" remote="github" revision="cm-12.0" />
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.0" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.0" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="github" revision="cm-12.0" />
 
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
@@ -342,7 +343,7 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
+  <!--<project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />-->
   <!--<project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />-->
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
