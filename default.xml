@@ -36,6 +36,7 @@
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.0" />
   <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-12.0" />
   <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.0" />
+  <project path="external/bluetooth/bluedroid" name="temasek/android_external_bluetooth_bluedroid" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
@@ -86,7 +87,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
-  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" />
+  <!--<project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" groups="pdk" />-->
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/bson" name="CyanogenMod/android_external_bson" />
