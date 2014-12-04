@@ -17,3 +17,9 @@ Repo initialization:
 sync repo :
 
     $ repo sync
+
+
+Credits
+=======
+
+Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, and anyone else I forgot to mention for their commits.
