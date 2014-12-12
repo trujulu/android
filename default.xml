@@ -40,12 +40,13 @@
   <project path="packages/apps/DeskClock" name="temasek/android_packages_apps_DeskClock" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Browser" name="temasek/android_packages_apps_Browser" remote="github" revision="cm-12.0" />
+  <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
-  <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
+  <!--<project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />-->
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
