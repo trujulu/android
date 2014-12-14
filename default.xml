@@ -42,6 +42,7 @@
   <project path="packages/apps/Browser" name="temasek/android_packages_apps_Browser" remote="github" revision="cm-12.0" />
   <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-12.0" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-12.0" />
+  <project path="libcore" name="temasek/android_libcore" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
@@ -425,7 +426,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="libcore" name="CyanogenMod/android_libcore" />
+  <!--<project path="libcore" name="CyanogenMod/android_libcore" />-->
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
