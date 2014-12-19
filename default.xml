@@ -46,11 +46,12 @@
   <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Gallery2" name="temasek/android_packages_apps_Gallery2" remote="github" revision="cm-12.0" />
   <project path="external/jpeg" name="temasek/android_external_jpeg" remote="github" revision="cm-12.0" />
+  <project path="art" name="temasek/android_art" groups="pdk" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" groups="pdk" />
+  <!--<project path="art" name="CyanogenMod/android_art" groups="pdk" />-->
   <!--<project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />-->
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
