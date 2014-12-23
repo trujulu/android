@@ -29,7 +29,6 @@
   <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-12.0" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.0" />
   <project path="system/vold" name="temasek/android_system_vold" remote="github" revision="cm-12.0" />
-  <project path="external/koush/Superuser" name="temasek/Superuser" remote="github" revision="cm-12.0" />
   <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.0" />
   <project path="hardware/qcom/gps" name="temasek/android_hardware_qcom_gps" remote="github" revision="cm-12.0" />
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.0" />
