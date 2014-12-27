@@ -53,6 +53,7 @@
   <project path="packages/apps/DSPManager" name="temasek/android_packages_apps_DSPManager" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Calculator" name="temasek/android_packages_apps_Calculator" remote="github" revision="cm-12.0" />
   <project path="frameworks/support" name="temasek/android_frameworks_support" remote="github" revision="cm-12.0" />
+  <project path="frameworks/opt/telephony" name="temasek/android_frameworks_opt_telephony" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
@@ -390,7 +391,7 @@
   <project path="frameworks/opt/net/wifi" name="CyanogenMod/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/setupwizard" name="CyanogenMod/android_frameworks_opt_setupwizard" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
+  <!--<project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />-->
   <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
