@@ -55,6 +55,7 @@
   <project path="frameworks/support" name="temasek/android_frameworks_support" remote="github" revision="cm-12.0" />
   <project path="frameworks/opt/telephony" name="temasek/android_frameworks_opt_telephony" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Email" name="temasek/android_packages_apps_Email" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/UnifiedEmail" name="temasek/android_packages_apps_UnifiedEmail" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
@@ -488,7 +489,7 @@
   <!-- <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" /> -->
   <!-- <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" /> -->
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
-  <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
+  <!--<project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />-->
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
   <!--<project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />-->
