@@ -18,6 +18,11 @@ sync repo :
 
     $ repo sync
 
+Patch chromium_org :
+
+    $ cd external/chromium_org
+    $ find . -name '*.mk' -exec sed -i -e 's/-Os/-w -O3/g' {} \;
+    $ cd ..
 
 Credits
 =======
