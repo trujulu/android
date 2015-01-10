@@ -60,6 +60,7 @@
   <project path="packages/apps/Camera2" name="temasek/android_packages_apps_Camera2" remote="github" revision="cm-12.0" />
   <project path="external/libpng" name="temasek/android_external_libpng" remote="github" revision="cm-12.0" />
   <project path="external/llvm" name="temasek/android_external_llvm" groups="pdk" remote="github" revision="cm-12.0" />
+  <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" groups="pdk" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
@@ -360,7 +361,7 @@
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <!--project path="external/whispersystems/TextSecure" name="CyanogenMod/android_external_whispersystems_TextSecure" />
   <project path="external/whispersystems/WhisperPush" name="CyanogenMod/android_external_whispersystems_WhisperPush" /-->
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />
+  <!--<project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" groups="pdk" />-->
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
