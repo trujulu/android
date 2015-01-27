@@ -24,6 +24,8 @@
   <project path="android" name="temasek/android" remote="github" revision="cm-12.1" />
 
   <!-- START of temasek -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="arter97/arm-linux-androideabi-4.9" remote="github" revision="cm-12.0" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="arter97/arm-linux-androideabi-4.9" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
