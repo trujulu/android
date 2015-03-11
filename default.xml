@@ -146,7 +146,7 @@
   <project path="external/chromium_org/third_party/libyuv" name="arter97/android_external_chromium_org_third_party_libyuv" />
   <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" />
   <project path="external/chromium_org/third_party/openmax_dl" name="arter97/android_external_chromium_org_third_party_openmax_dl" />
-  <project path="external/chromium_org/third_party/openssl" name="CyanogenMod/android_external_chromium_org_third_party_openssl" />
+  <project path="external/chromium_org/third_party/openssl" name="arter97/android_external_chromium_org_third_party_openssl" />
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" remote="aosp" />
   <project path="external/chromium_org/third_party/ots" name="arter97/android_external_chromium_org_third_party_ots" />
   <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" />
