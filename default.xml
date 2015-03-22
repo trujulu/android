@@ -66,6 +66,7 @@
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.0" />
   <project path="external/dhcpcd" name="temasek/android_external_dhcpcd" remote="github" revision="cm-12.0" />
   <project path="frameworks/opt/net/wifi" name="temasek/android_frameworks_opt_net_wifi" remote="github" revision="cm-12.0" />
+  <project path="vendor/temasek" name="temasek/android_vendor_temasek" remote="github" revision="cm-12.0" />
   <!-- END of temasek -->
 
 
