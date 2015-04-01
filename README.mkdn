@@ -1,50 +1,35 @@
-CyanogenMod
-===========
+TEMASEK
+=======
 
-Submitting Patches
-------------------
-Patches are always welcome!  Please submit your patches via CyanogenMod Gerrit!
-You can do this by using these commands:
+Works-in-progress (DO NOT USE)
 
-    (From root android directory)
-    . build/envsetup.sh
-    (Go to repo you are patching, make your changes and commit)
-    cmgerrit <for(new)/changes(patch set)> <branch/change-id> 
+Download the Source
+===================
 
-    repo start cm-12.1 .
-    (Make your changes and commit)
-    repo upload .
-Note: "." meaning current directory
-For more help on using this tool, use this command: repo help upload
+Please see the CyanogenMod Wiki for building instructions.
 
-Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel)
-Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
+Initializing Repository
+-----------------------
 
-To view the status of your and others' patches, visit [CyanogenMod Code Review](http://review.cyanogenmod.org/)
+Repo initialization:
+
+    $ repo init -u https://github.com/temasek/android.git -b cm-12.1
 
 
-Getting Started
----------------
+sync repo :
 
-To get started with Android/CyanogenMod, you'll need to get
-familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+    $ repo sync
 
-To initialize your local repository using the CyanogenMod trees, use a command like this:
+Kernel build :
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-12.1
+Due to kernel now being built with androideabi toolchain,
+you may need to add "-fno-pic" CFLAG to Makefile in order to make your kernel fully functional.
 
-Then to sync up:
+Credits
+=======
 
-    repo sync
+Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, AICP, Euphoria-OS and anyone else I forgot to mention for their commits.
 
-Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
+Special mention - arter97 , Cristiano Matos (crDroid)
 
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
-
-Buildbot
---------
-
-All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [CyanogenMod Jenkins](http://jenkins.cyanogenmod.org/)
+PartimusPrime - Official bootanimation creator for temasek builds
