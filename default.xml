@@ -32,6 +32,7 @@
   <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
+  <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-12.1" />
   <!-- END of temasek -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
@@ -308,7 +309,7 @@
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" groups="pdk" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" groups="pdk" />
-  <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
+  <!--<project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />-->
   <project path="external/square/dagger" name="CyanogenMod/android_external_square_dagger" />
   <project path="external/square/javawriter" name="CyanogenMod/android_external_square_javawriter" />
   <project path="external/srec" name="platform/external/srec" groups="pdk-cw-fs" remote="aosp" />
