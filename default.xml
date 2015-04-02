@@ -34,6 +34,7 @@
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-12.1" />
+  <project path="vendor/temasek" name="temasek/android_vendor_temasek" remote="github" revision="cm-12.1" />
   <!-- END of temasek -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
