@@ -31,6 +31,7 @@
   <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
+  <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.1" />
   <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
@@ -500,7 +501,7 @@
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
+  <!--<project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />-->
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" />
