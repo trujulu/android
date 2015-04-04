@@ -33,9 +33,10 @@
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
   <project path="packages/apps/ScreenRecorder" name="temasek/android_packages_apps_ScreenRecorder" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
-  <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.1" />
-  <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
+  <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.1" />
+  <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-12.1" />
+  <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
   <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-12.1" />
   <project path="vendor/temasek" name="temasek/android_vendor_temasek" remote="github" revision="cm-12.1" />
@@ -514,7 +515,7 @@
   <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />
   <project path="packages/services/Mms" name="CyanogenMod/android_packages_services_Mms" />
   <project path="packages/services/Telecomm" name="CyanogenMod/android_packages_services_Telecomm" />
-  <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" />
+  <!--<project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" />-->
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
