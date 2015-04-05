@@ -31,6 +31,7 @@
   <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-12.1" />
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.1" />
   <project path="packages/apps/ScreenRecorder" name="temasek/android_packages_apps_ScreenRecorder" remote="github" revision="cm-12.1" />
@@ -482,7 +483,7 @@
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />
+  <!--<project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />-->
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <!--<project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />-->
