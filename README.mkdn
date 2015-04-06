@@ -1,8 +1,6 @@
 TEMASEK
 =======
 
-Works-in-progress (DO NOT USE)
-
 Download the Source
 ===================
 
