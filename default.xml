@@ -43,7 +43,6 @@
   <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-12.1" />
   <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-12.1" />
   <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
-  <project path="vendor/temasek" name="temasek/android_vendor_temasek" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
   <project path="external/bluetooth/bluedroid" name="temasek/android_external_bluetooth_bluedroid" remote="github" revision="cm-12.1" />
   <project path="external/dhcpcd" name="temasek/android_external_dhcpcd" remote="github" revision="cm-12.1" />
