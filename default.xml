@@ -36,6 +36,7 @@
   <project path="frameworks/webview" name="temasek/android_frameworks_webview" remote="github" revision="cm-12.1" />
   <project path="libcore" name="temasek/android_libcore" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Browser" name="temasek/android_packages_apps_Browser" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Contacts" name="temasek/android_packages_apps_Contacts" remote="github" revision="cm-12.1" />
   <project path="packages/apps/DeskClock" name="temasek/android_packages_apps_DeskClock" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" remote="github" revision="cm-12.1" />
   <project path="packages/apps/InCallUI" name="temasek/android_packages_apps_InCallUI" remote="github" revision="cm-12.1" />
@@ -487,7 +488,7 @@
   <!-- <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" /> -->
   <!--<project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />-->
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
+  <!--<project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />-->
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <!--<project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />-->
   <!--<project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" />-->
