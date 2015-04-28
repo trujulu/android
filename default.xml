@@ -28,6 +28,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="arter97/arm-linux-androideabi-4.9" remote="github" revision="cm-12.0" />
   <project path="art" name="temasek/android_art" remote="github" revision="cm-12.1" />
   <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-12.1" />
+  <project path="development" name="temasek/android_development" remote="github" revision="cm-12.1" />
   <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-12.1" />
   <project path="frameworks/base" name="temasek/android_frameworks_base" remote="github" revision="cm-12.1" />
   <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-12.1" />
@@ -68,7 +69,7 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" />
-  <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />
+  <!--<project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />-->
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs" />
   <project path="device/generic/arm64" name="CyanogenMod/android_device_generic_arm64" groups="pdk" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" />
