@@ -18,11 +18,6 @@ sync repo :
 
     $ repo sync
 
-Kernel build :
-
-Due to kernel now being built with androideabi toolchain,
-you may need to add "-fno-pic" CFLAG to Makefile in order to make your kernel fully functional.
-
 Credits
 =======
 
