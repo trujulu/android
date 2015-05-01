@@ -26,11 +26,18 @@ you may need to apply the following patches in order to make your kernel fully b
 https://github.com/temasek/android_kernel_samsung_hlte/commit/34f7e2506f636fcd78f5a66ef6b2dc6c2f6ea65d
 https://github.com/temasek/android_kernel_samsung_hlte/commit/c3af09a3d5609f646f638b8fd858ec3d72304bba
 
+Pre-built Chromium :
+
+export USE_PREBUILT_CHROMIUM=1
+
+
 Credits
 =======
 
-Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, AICP, Euphoria-OS and anyone else I forgot to mention for their commits.
+Google for the Android source code. CyanogenMod, in which this source layout was used as a starting point for me. Everyone in crDroid, AOSPA, CyanogenMod, OmniROM, SlimROM, LiquidSmooth, SpasilliumNexus, DirtyUnicorns, NamelessROM, AICP, Euphoria-OS, TeamBliss, PAC and anyone else I forgot to mention for their commits.
 
-Special mention - arter97 , Cristiano Matos (crDroid)
+Special mention - Cristiano Matos (crDroid)
+
+Temasek HEAD of optimizations - arter97 (And advisor to kernel, device trees)
 
 PartimusPrime - Official bootanimation creator for temasek builds
