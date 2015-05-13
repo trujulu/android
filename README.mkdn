@@ -26,10 +26,6 @@ you may need to apply the following patches in order to make your kernel fully b
 https://github.com/temasek/android_kernel_samsung_hlte/commit/34f7e2506f636fcd78f5a66ef6b2dc6c2f6ea65d
 https://github.com/temasek/android_kernel_samsung_hlte/commit/c3af09a3d5609f646f638b8fd858ec3d72304bba
 
-Pre-built Chromium :
-
-export USE_PREBUILT_CHROMIUM=1
-
 
 Credits
 =======
