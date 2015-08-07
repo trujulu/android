@@ -58,6 +58,7 @@
   <project path="packages/apps/PhoneCommon" name="temasek/android_packages_apps_PhoneCommon" remote="github" revision="cm-12.1" />
   <project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Stk" name="temasek/android_packages_apps_Stk" remote="github" revision="cm-12.1" />
   <project path="packages/apps/WallpaperPicker" name="temasek/packages_apps_WallpaperPicker" remote="github" revision="lp5.1" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-12.1" />
   <project path="packages/providers/DownloadProvider" name="temasek/android_packages_providers_DownloadProvider" remote="github" revision="cm-12.1" />
@@ -534,7 +535,7 @@
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
-  <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
+  <!--<project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />-->
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" name="CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
