@@ -73,6 +73,7 @@
   <project path="external/bluetooth/bluedroid" name="temasek/android_external_bluetooth_bluedroid" remote="github" revision="cm-12.1" />
   <project path="external/chromium_org/third_party/WebKit" name="temasek/android_external_chromium_org_third_party_WebKit" remote="github" revision="cm-12.1" />
   <project path="external/dhcpcd" name="temasek/android_external_dhcpcd" remote="github" revision="cm-12.1" />
+  <project path="external/jpeg" name="temasek/android_external_jpeg" remote="github" revision="cm-12.1" />
   <project path="external/libpng" name="temasek/android_external_libpng" remote="github" revision="cm-12.1" />
   <project path="external/sepolicy" name="temasek/android_external_sepolicy" remote="github" revision="cm-12.1" />
   <project path="external/sqlite" name="arter97/android_external_sqlite" remote="github" revision="cm-12.1" />
@@ -239,7 +240,7 @@
   <project path="external/jhead" name="platform/external/jhead" groups="pdk" remote="aosp" />
   <project path="external/jline" name="platform/external/jline" groups="notdefault,tradefed" remote="aosp" />
   <project path="external/jmdns" name="platform/external/jmdns" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" />
+  <!--<project path="external/jpeg" name="CyanogenMod/android_external_jpeg" groups="pdk" />-->
   <project path="external/jsilver" name="platform/external/jsilver" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/jsmn" name="platform/external/jsmn" groups="pdk" remote="aosp" />
   <project path="external/jsoncpp" name="platform/external/jsoncpp" groups="pdk-cw-fs" remote="aosp" />
