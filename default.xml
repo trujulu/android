@@ -58,7 +58,7 @@
   <project path="packages/apps/OTAUpdates" name="Kryten2k35/OTAUpdates" revision="aosp" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.1" />
   <project path="packages/apps/PhoneCommon" name="temasek/android_packages_apps_PhoneCommon" remote="github" revision="cm-12.1" />
-  <project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-12.1" />
+  <!--<project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-12.1" />-->
   <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Stk" name="temasek/android_packages_apps_Stk" remote="github" revision="cm-12.1" />
   <project path="packages/apps/WallpaperPicker" name="temasek/packages_apps_WallpaperPicker" remote="github" revision="lp5.1" />
