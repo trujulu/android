@@ -55,7 +55,7 @@
   <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Nfc" name="temasek/android_packages_apps_Nfc" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
-  <project path="packages/apps/OTAUpdates" name="Kryten2k35/OTAUpdates" revision="aosp" />
+  <project path="packages/apps/OTAUpdates" name="temasek/OTAUpdates" revision="aosp" />
   <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-12.1" />
   <project path="packages/apps/PhoneCommon" name="temasek/android_packages_apps_PhoneCommon" remote="github" revision="cm-12.1" />
   <!--<project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-12.1" />-->
