@@ -74,6 +74,7 @@
   <project path="external/dhcpcd" name="temasek/android_external_dhcpcd" remote="github" revision="cm-12.1" />
   <project path="external/jpeg" name="temasek/android_external_jpeg" remote="github" revision="cm-12.1" />
   <project path="external/libpng" name="temasek/android_external_libpng" remote="github" revision="cm-12.1" />
+  <project path="external/lz4" name="temasek/android_external_lz4" remote="github" revision="cm-12.1" />
   <project path="external/sepolicy" name="temasek/android_external_sepolicy" remote="github" revision="cm-12.1" />
   <project path="external/sqlite" name="arter97/android_external_sqlite" remote="github" revision="cm-12.1" />
   <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" remote="github" revision="cm-12.1" />
@@ -298,7 +299,7 @@
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
-  <project path="external/lz4" name="CyanogenMod/android_external_lz4" />
+  <!--<project path="external/lz4" name="CyanogenMod/android_external_lz4" />-->
   <project path="external/lzma" name="CyanogenMod/android_external_lzma" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/markdown" name="platform/external/markdown" groups="pdk-cw-fs" remote="aosp" />
