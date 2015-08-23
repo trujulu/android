@@ -80,6 +80,7 @@
   <project path="external/sepolicy" name="temasek/android_external_sepolicy" remote="github" revision="cm-12.1" />
   <project path="external/sqlite" name="arter97/android_external_sqlite" remote="github" revision="cm-12.1" />
   <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" remote="github" revision="cm-12.1" />
+  <project path="external/f2fs-tools" name="temasek/android_external_f2fs-tools" remote="github" revision="cm-12.1" />
   <!-- END of temasek -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
@@ -199,7 +200,7 @@
   <project path="external/exfat" name="CyanogenMod/android_external_exfat" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" remote="aosp" />
   <project path="external/eyes-free" name="platform/external/eyes-free" groups="pdk-cw-fw" remote="aosp" />
-  <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" groups="pdk" />
+  <!--<project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" groups="pdk" /> -->
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" remote="aosp" />
   <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" />
   <project path="external/fio" name="platform/external/fio" remote="aosp" />
