@@ -64,7 +64,7 @@ arter97 (flo, ks01lte)
 
 katinatez (Bacon)
 
-joshndroid (lte03wifi, mako, Nexus 9 Wifi, Nexus 6p. hlte/hltespr)
+joshndroid (lte03wifi, mako, Nexus 9 Wifi, Nexus 6p)
 
 apascual89 (hammerhead, Nexus 6p)
 
@@ -74,4 +74,6 @@ Darkened_Sky (i9300)
 
 Trafalgar-Square (N7100, shieldtablet)
 
-Snottierwhale (Shamu)
+neobuddy89 (Shamu)
+
+trader418 (hltespr/hltevzw)
