@@ -64,7 +64,7 @@ arter97 (flo, ks01lte)
 
 katinatez (Bacon)
 
-joshndroid (lte03wifi, mako, Nexus 9 Wifi, Nexus 6p)
+joshndroid (lte03wifi, mako, Nexus 9 Wifi, Nexus 6p, bullhead)
 
 apascual89 (hammerhead, Nexus 6p)
 
