@@ -76,4 +76,4 @@ Trafalgar-Square (N7100, shieldtablet)
 
 neobuddy89 (Shamu)
 
-trader418 (hltespr/hltevzw)
+trader418 (hlte/hltespr/hltevzw)
