@@ -61,6 +61,7 @@
   <project path="packages/apps/PhoneCommon" name="temasek/android_packages_apps_PhoneCommon" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
   <project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Snap" name="temasek/android_packages_apps_Snap" remote="github" revision="cm-13.0" />
   <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-13.0" />
   <project path="packages/providers/ContactsProvider" name="temasek/android_packages_providers_ContactsProvider" remote="github" revision="cm-13.0" />
   <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-13.0" />
@@ -287,7 +288,7 @@
   <!--<project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" groups="pdk-fs" />-->
   <!--<project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />-->
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" groups="pdk-fs" />
-  <project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" />
+  <!--<project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" />-->
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" groups="pdk-fs" />
