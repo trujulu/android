@@ -52,6 +52,7 @@
   <project path="packages/apps/DeskClock" name="temasek/android_packages_apps_DeskClock" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" remote="github" revision="cm-12.1" />
   <project path="packages/apps/InCallUI" name="temasek/android_packages_apps_InCallUI" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/LockClock" name="temasek/android_packages_apps_LockClock" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Mms" name="temasek/android_packages_apps_Mms-caf" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Nfc" name="temasek/android_packages_apps_Nfc" remote="github" revision="cm-12.1" />
   <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-12.1" />
@@ -523,7 +524,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <!--<project path="packages/apps/InCallUI" name="CyanogenMod/android_packages_apps_InCallUI" />-->
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
-  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
+  <!--<project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />-->
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
   <!--<project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />-->
   <!--<project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />-->
