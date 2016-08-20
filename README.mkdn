@@ -1,4 +1,5 @@
-This is a FORK of Temaseks rom, kept up to date with cm-13.0's source. 
+This is a FORK of Temaseks rom, kept up to date with cm-13.0's source.
+======================================================================
 
 TEMASEK
 =======
@@ -16,7 +17,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/temasek/android.git -b cm-13.0
+    $ repo init -u https://github.com/trader418/android.git -b cm-13.0
 
 
 sync repo :
