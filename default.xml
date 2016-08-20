@@ -21,61 +21,61 @@
            sync-j="4" />
 
 <!-- START of temasek -->
-  <project path="build" name="temasek/android_build" remote="github" revision="cm-13.0" >
+  <project path="build" name="trader418/android_build" remote="github" revision="cm-13.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="temasek/android" remote="github" revision="cm-13.0" />
+  <project path="android" name="trader418/android" remote="github" revision="cm-13.0" />
 
-  <project path="art" name="temasek/android_art" remote="github" revision="cm-13.0" />
-  <project path="bionic" name="temasek/android_bionic" remote="github" revision="cm-13.0" />
-  <project path="bootable/recovery" name="temasek/android_bootable_recovery" remote="github" revision="cm-13.0" />
-  <project path="dalvik" name="temasek/android_dalvik" remote="github" revision="cm-13.0" />
-  <project path="external/okhttp" name="temasek/android_external_okhttp" remote="github" revision="cm-13.0" />
-  <project path="external/sepolicy" name="temasek/android_external_sepolicy" remote="github" revision="cm-13.0" />
-  <project path="external/sqlite" name="temasek/android_external_sqlite" remote="github" revision="cm-13.0" />
-  <project path="external/toybox" name="temasek/android_external_toybox" remote="github" revision="cm-13.0" />
-  <project path="external/webp" name="temasek/android_external_webp" remote="github" revision="cm-13.0" />
-  <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" remote="github" revision="cm-13.0" />
-  <project path="frameworks/av" name="temasek/android_frameworks_av" remote="github" revision="cm-13.0" />
-  <project path="frameworks/base" name="temasek/android_frameworks_base" remote="github" revision="cm-13.0" />
-  <project path="frameworks/native" name="temasek/android_frameworks_native" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/bluetooth" name="temasek/android_frameworks_opt_bluetooth" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/cards" name="temasek/frameworks_opt_cards" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/hardware" name="temasek/android_frameworks_opt_hardware" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/net/ims" name="temasek/android_frameworks_opt_net_ims" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/net/wifi" name="temasek/android_frameworks_opt_net_wifi" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/telephony" name="temasek/android_frameworks_opt_telephony" remote="github" revision="cm-13.0" />
-  <project path="frameworks/opt/timezonepicker" name="temasek/android_frameworks_opt_timezonepicker" remote="github" revision="cm-13.0" />
-  <project path="libcore" name="temasek/android_libcore" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/Bluetooth" name="temasek/android_packages_apps_Bluetooth" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/BluetoothExt" name="temasek/android_packages_apps_BluetoothExt" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/CellBroadcastReceiver" name="temasek/android_packages_apps_CellBroadcastReceiver" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/Contacts" name="temasek/android_packages_apps_Contacts" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/ContactsCommon" name="temasek/android_packages_apps_ContactsCommon" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/DeskClock" name="temasek/android_packages_apps_DeskClock" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/Dialer" name="temasek/android_packages_apps_Dialer" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/InCallUI" name="temasek/android_packages_apps_InCallUI" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/LockClock" name="temasek/android_packages_apps_LockClock" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/OmniSwitch" name="temasek/android_packages_apps_OmniSwitch" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/OTAUpdates" name="temasek/OTAUpdates" revision="aosp" />
-  <project path="packages/apps/PackageInstaller" name="temasek/android_packages_apps_PackageInstaller" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/PhoneCommon" name="temasek/android_packages_apps_PhoneCommon" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/Settings" name="temasek/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/SetupWizard" name="temasek/android_packages_apps_SetupWizard" remote="github" revision="cm-13.0" />
+  <project path="art" name="trader418/android_art" remote="github" revision="cm-13.0" />
+  <project path="bionic" name="trader418/android_bionic" remote="github" revision="cm-13.0" />
+  <project path="bootable/recovery" name="trader418/android_bootable_recovery" remote="github" revision="cm-13.0" />
+  <project path="dalvik" name="trader418/android_dalvik" remote="github" revision="cm-13.0" />
+  <project path="external/okhttp" name="trader418/android_external_okhttp" remote="github" revision="cm-13.0" />
+  <project path="external/sepolicy" name="trader418/android_external_sepolicy" remote="github" revision="cm-13.0" />
+  <project path="external/sqlite" name="trader418/android_external_sqlite" remote="github" revision="cm-13.0" />
+  <project path="external/toybox" name="trader418/android_external_toybox" remote="github" revision="cm-13.0" />
+  <project path="external/webp" name="trader418/android_external_webp" remote="github" revision="cm-13.0" />
+  <project path="external/wpa_supplicant_8" name="trader418/android_external_wpa_supplicant_8" remote="github" revision="cm-13.0" />
+  <project path="frameworks/av" name="trader418/android_frameworks_av" remote="github" revision="cm-13.0" />
+  <project path="frameworks/base" name="trader418/android_frameworks_base" remote="github" revision="cm-13.0" />
+  <project path="frameworks/native" name="trader418/android_frameworks_native" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/bluetooth" name="trader418/android_frameworks_opt_bluetooth" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/cards" name="trader418/frameworks_opt_cards" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/hardware" name="trader418/android_frameworks_opt_hardware" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/net/ims" name="trader418/android_frameworks_opt_net_ims" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/net/wifi" name="trader418/android_frameworks_opt_net_wifi" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/telephony" name="trader418/android_frameworks_opt_telephony" remote="github" revision="cm-13.0" />
+  <project path="frameworks/opt/timezonepicker" name="trader418/android_frameworks_opt_timezonepicker" remote="github" revision="cm-13.0" />
+  <project path="libcore" name="trader418/android_libcore" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Bluetooth" name="trader418/android_packages_apps_Bluetooth" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/BluetoothExt" name="trader418/android_packages_apps_BluetoothExt" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/CellBroadcastReceiver" name="trader418/android_packages_apps_CellBroadcastReceiver" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Contacts" name="trader418/android_packages_apps_Contacts" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/ContactsCommon" name="trader418/android_packages_apps_ContactsCommon" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/DeskClock" name="trader418/android_packages_apps_DeskClock" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Dialer" name="trader418/android_packages_apps_Dialer" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/InCallUI" name="trader418/android_packages_apps_InCallUI" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/LockClock" name="trader418/android_packages_apps_LockClock" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/OmniSwitch" name="trader418/android_packages_apps_OmniSwitch" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/OTAUpdates" name="trader418/OTAUpdates" revision="aosp" />
+  <project path="packages/apps/PackageInstaller" name="trader418/android_packages_apps_PackageInstaller" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/PhoneCommon" name="trader418/android_packages_apps_PhoneCommon" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Settings" name="trader418/android_packages_apps_Settings" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/SetupWizard" name="trader418/android_packages_apps_SetupWizard" remote="github" revision="cm-13.0" />
   <project path="packages/apps/Snap" name="trader418/android_packages_apps_Snap" remote="github" revision="cm-13.0" />
-  <project path="packages/apps/Trebuchet" name="temasek/android_packages_apps_Trebuchet" remote="github" revision="cm-13.0" />
-  <project path="packages/inputmethods/LatinIME" name="temasek/android_packages_inputmethods_LatinIME" remote="github" revision="cm-13.0" />
-  <project path="packages/providers/ContactsProvider" name="temasek/android_packages_providers_ContactsProvider" remote="github" revision="cm-13.0" />
-  <project path="packages/providers/MediaProvider" name="temasek/android_packages_providers_MediaProvider" remote="github" revision="cm-13.0" />
-  <project path="packages/providers/TelephonyProvider" name="temasek/android_packages_providers_TelephonyProvider" remote="github" revision="cm-13.0" />
-  <project path="packages/services/Telecomm" name="temasek/android_packages_services_Telecomm" remote="github" revision="cm-13.0" />
-  <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-13.0" />
-  <project path="system/bt" name="temasek/android_system_bt" remote="github" revision="cm-13.0" />
-  <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-13.0" />
-  <project path="system/vold" name="temasek/android_system_vold" remote="github" revision="cm-13.0" />
-  <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-13.0" />
-  <project path="vendor/cmsdk" name="temasek/cm_platform_sdk" remote="github" revision="cm-13.0" />
+  <project path="packages/apps/Trebuchet" name="trader418/android_packages_apps_Trebuchet" remote="github" revision="cm-13.0" />
+  <project path="packages/inputmethods/LatinIME" name="trader418/android_packages_inputmethods_LatinIME" remote="github" revision="cm-13.0" />
+  <project path="packages/providers/ContactsProvider" name="trader418/android_packages_providers_ContactsProvider" remote="github" revision="cm-13.0" />
+  <project path="packages/providers/MediaProvider" name="trader418/android_packages_providers_MediaProvider" remote="github" revision="cm-13.0" />
+  <project path="packages/providers/TelephonyProvider" name="trader418/android_packages_providers_TelephonyProvider" remote="github" revision="cm-13.0" />
+  <project path="packages/services/Telecomm" name="trader418/android_packages_services_Telecomm" remote="github" revision="cm-13.0" />
+  <project path="packages/services/Telephony" name="trader418/android_packages_services_Telephony" remote="github" revision="cm-13.0" />
+  <project path="system/bt" name="trader418/android_system_bt" remote="github" revision="cm-13.0" />
+  <project path="system/core" name="trader418/android_system_core" remote="github" revision="cm-13.0" />
+  <project path="system/vold" name="trader418/android_system_vold" remote="github" revision="cm-13.0" />
+  <project path="vendor/cm" name="trader418/android_vendor_cm" remote="github" revision="cm-13.0" />
+  <project path="vendor/cmsdk" name="trader418/cm_platform_sdk" remote="github" revision="cm-13.0" />
 <!-- END of temasek -->
 
 <!-- BEGIN CYANOGENMOD -->
