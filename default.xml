@@ -67,7 +67,7 @@
   <project path="packages/apps/Trebuchet" name="trader418/android_packages_apps_Trebuchet" remote="github" revision="cm-13.0" />
   <project path="packages/inputmethods/LatinIME" name="trader418/android_packages_inputmethods_LatinIME" remote="github" revision="cm-13.0" />
   <project path="packages/providers/ContactsProvider" name="trader418/android_packages_providers_ContactsProvider" remote="github" revision="cm-13.0" />
-  <project path="packages/providers/Provider" name="trader418/android_packages_providers_MediaProvider" remote="github" revision="cm-13.0" />
+  <project path="packages/providers/MediaProvider" name="trader418/android_packages_providers_MediaProvider" remote="github" revision="cm-13.0" />
   <project path="packages/providers/TelephonyProvider" name="trader418/android_packages_providers_TelephonyProvider" remote="github" revision="cm-13.0" />
   <project path="packages/services/Telecomm" name="trader418/android_packages_services_Telecomm" remote="github" revision="cm-13.0" />
   <project path="packages/services/Telephony" name="trader418/android_packages_services_Telephony" remote="github" revision="cm-13.0" />
