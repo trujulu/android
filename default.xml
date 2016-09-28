@@ -21,7 +21,7 @@
            sync-j="4" />
 
 <!-- START of temasek -->
-  <project path="build" name="trujulu/android_build" remote="github" revision="cm-13.0" >
+  <project path="build" name="trader418/android_build" remote="github" revision="cm-13.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
